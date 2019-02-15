@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{382B45D1-978F-EDDE-9429-0998B817C6F7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GravityManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallManager.cs" Line="45" Column="36" />
+      <File FileName="Assets/Scripts/GravityManager.cs" Line="71" Column="22" />
+      <File FileName="Assets/Scripts/AimManager.cs" Line="17" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
